@@ -1,0 +1,23 @@
+[
+    {
+        "title": "AnimesROLL - Animes Online",
+        "images": ["/images/animesroll1.jpg","/images/animesroll2.jpg","/images/animesroll3.jpg"],
+        "description": "Assista seus animes preferidos, ou com seus amigos usando nossa ferramenta de assistir junto com integração de chat e player em tempo real.",
+        "stacks": ["ReactJS","NodeJS","CSS3","JavaScript","BootStrap v4"],
+        "href": ["https://www.anroll.net","_blank"]
+    },
+    {
+        "title": "Simulador de Avaliação - UVA",
+        "images": ["/images/uva1.jpg","/images/uva2.jpg","/images/uva3.jpg"],
+        "description": "Simule sua nota e veja se você está ou não reprovado na materia da faculdade!",
+        "stacks": ["BootStrap v4","HTML5","CSS3","JavaScript"],
+        "href": ["/uva",""]
+    },
+    {
+        "title": "FBK - Prevenção de perdas & Administração de estacionamentos",
+        "images": ["/images/fbk1.jpg","/images/fbk2.jpg","/images/fbk3.jpg"],
+        "description": "A FBK é uma empresa estabelecida no Rio de Janeiro que oferece terceirização de serviços de agentes de prevenção de perdas (APP) e administração de estacionamento.",
+        "stacks": ["PHP 7","HTML5","CSS3","JavaScript","Materialize CSS"],
+        "href": ["https://www.fbkrj.com/","_blank"]
+    }
+]

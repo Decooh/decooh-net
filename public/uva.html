@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Simulador de Avaliação - UVA</title>
+		<!-- <meta charset="UTF-8"> -->
+		<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=2, initial-scale=1.0" />
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+		<style type="text/css">
+		body {
+			background-color: #eee;
+		}
+		@media screen and (min-width: 1152px) {
+			.main { margin: 0px auto; width: 350px; }
+		}
+
+		@media screen and (max-width: 1153px) {
+			.main { margin: 0px auto; width: 100%; }
+		}
+			#dev { font-size: 16px; }
+			#lang { font-size: 13px; }
+		</style>
+	</head>
+	<body>
+		<div class="main" style="margin: 0px auto; margin-top: 10px; padding: 20px;">
+			<p align="center">
+				Simulador de Avaliação - UVA
+			</p>
+			<p>
+				<img src="/images/uvaLogo.png" width="100%">
+			</p>
+
+			Trabalho 1:
+			<input step="0.01" class="form-control" maxlength="3" type="number" max="100" min="0" name="trab1" id="trab1" placeholder="Ex: 100% = 10">
+
+			Trabalho 2:
+			<input step="0.01" class="form-control" type="number" max="100" min="0" name="trab2" id="trab2" placeholder="Ex: 82% = 8.2">
+
+			<br>
+			Avaliação A2:
+			<input step="0.01" class="form-control" type="number" max="100" min="0" name="av2" id="av2" placeholder="Ex: 8">
+
+			<br>
+			Avaliação A3:
+			<input step="0.01" class="form-control" type="number" max="100" min="0" name="av3" id="av3" placeholder="Ex: 9">
+
+			<br>
+
+			<div class="alert alert-secondary" role="alert" align="center">
+			  Sua média é: 
+				<p><span style="font-size: 46px;" id="resultado">...</span>
+			 	<br><span id="status"></span>
+				</p>
+			</div>
+
+			<p align="center">
+				<span id="dev">Desenvolvido por: <a href="https://fb.com/decoohz" target="_blank">André Motta</a></span><br>
+				<span id="lang"><a href="https://getbootstrap.com/" target="_blank">BootStrap v4</a> - JavaScript, HTML5, CSS3</span>
+			</p>
+
+		</div>
+	</body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	<script src="/js/uvaCalc.js"></script>
+</html>
