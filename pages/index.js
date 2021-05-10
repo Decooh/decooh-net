@@ -18,7 +18,7 @@ function Home() {
                 </div> 
                 <p style={{clear: 'both'}}>
                     Atualmente desenvolvendo em Node JS + Express e React JS + Next JS, estou aprimorando conhecimentos em React Native e
-                    nas horas vagas arrumando algumas coisas em PHP. :)
+                    nas horas vagas arrumando algumas coisas em PHP.
                 </p>
 
             </main>
