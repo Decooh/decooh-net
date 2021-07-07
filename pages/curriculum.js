@@ -13,7 +13,7 @@ function Curriculum() {
                 <p></p>
                 <h5>André Luiz De Sá Motta</h5>
                 <p>
-                    Brasileiro, Solteiro, 24 anos. <br/>
+                    Brasileiro, Solteiro, 24 anos. :)<br/>
                     Santa Cruz, Rio de Janeiro, Rua Vieira Ravasco, 746 – CASA A <br/>
                     (21) 99168-2591 / (21) 3217-9637 <br/>
                     Decoohz@gmail.com
