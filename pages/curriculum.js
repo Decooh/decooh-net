@@ -13,7 +13,7 @@ function Curriculum() {
                 <p></p>
                 <h5>André Luiz De Sá Motta</h5>
                 <p>
-                    Brasileiro, Solteiro, 24 anos. :)<br/>
+                    Brasileiro, Solteiro, 25 anos.<br/>
                     Santa Cruz, Rio de Janeiro, Rua Vieira Ravasco, 746 – CASA A <br/>
                     (21) 99168-2591 / (21) 3217-9637 <br/>
                     Decoohz@gmail.com
@@ -27,7 +27,7 @@ function Curriculum() {
                 <p>
                     Ensino Médio - Concluído<br/>
                     Ensino Superior - Cursando<br/>
-                    4ª Período em Sistema de Informações pela UVA (Universidade Veiga de Almeida)
+                    5ª Período em Sistema de Informações pela UVA (Universidade Veiga de Almeida)
                 </p>
 
                 <h3>Experiência Profissional</h3>
@@ -39,19 +39,25 @@ function Curriculum() {
                     <strong>Empresa:</strong> CICLUS AMBIENTAL (2 ANOS)<br/>
                     Jovem Aprendiz na empresa Ciclus entre o período de 25/09/2017 à 25/09/2019 na área de Informática – TI, com o conhecimento de configuração de cameras, infraestrutura de redes e computadores.
                 </p>
+                <p>
+                    <strong>Empresa:</strong> BIZUT - SISTEMA DE RECRUTAMENTO E SELEÇÃO<br/>
+                    Estiagiário atualmente na empresa Bizut, trabalhando diretamente com SDK da Amazon para construção de um novo produto na empresa, utilizando ReactJS + Typescript para construção da interface de usuário (UI/UX) e LaravelPHP 8 na construção de API com MySQL (Banco de dados).
+                </p>
 
                 <h3>Informações Complementares</h3>
 
                 <p>
-                    Conhecimento no back-end com NodeJS, Express, EJS, PHP 7 OO, PDO, PHP WebSocket (Ratchet) e básicos com frameworks como LaravelPHP, CakePHP, Slim Framework;<br/>
+                    Conhecimento no back-end com NodeJS, Express, Socket.io, EJS, PHP 7 OO, PDO, PHP WebSocket (Ratchet) e básicos com frameworks como LaravelPHP, CakePHP, Slim Framework;<br/>
 
-                    Experiências sólidas com JavaScript ES5 ou 6, ReactJS, React Native, ReactJS + NextJS, jQuery, jQuery Ajax, CSS3 e HTML5;<br/>
+                    Experiências sólidas com JavaScript ES5 ou 6, ReactJS, React Native, ReactJS + NextJS, TypeScript, jQuery, jQuery Ajax, CSS3 e HTML5;<br/>
 
                     Configuração de máquinas e serviços no AWS (Amazon Web Services), EC2, Cloud9, dentre outros; <br/>
 
                     Experiências sólidas com MySQL e/ou MSSQL na modelagem de banco de dados, criação de tabelas, configurações de cada campo, varchar, int, date, timestamp, dentre outros, entrelaçamento de dados entre tabelas e configurações/permissões de níveis de usuários para acesso ao banco;<br/>
 
                     Conhecimentos e experiência sólida com servidores Linux; desde a Instalações de Softwares OpenSource como PHP-FPM, PHP 7, Nginx, Apache;<br/>
+                    
+                    Conhecimento de comandos essenciais em GIT. GitHub, BitBucket;<br/>
 
                     Ferramenta de conversão de vídeo integrada ao servidor Linux utilizando FFMPEG (linhas de comando para conversão de vídeos e cortes);<br/>
 
@@ -71,9 +77,9 @@ function Curriculum() {
                 </p>
 
                 <p>
-                Desenvolvimento WEB – HTML5/CSS3<br/>
-                Concluído: 17/11/2016<br/>
-                Instituição: SoloLearn<br/>
+                    Desenvolvimento WEB – HTML5/CSS3<br/>
+                    Concluído: 17/11/2016<br/>
+                    Instituição: SoloLearn<br/>
                 </p>
                 
                 <p>
