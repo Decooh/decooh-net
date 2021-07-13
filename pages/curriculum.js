@@ -41,7 +41,7 @@ function Curriculum() {
                 </p>
                 <p>
                     <strong>Empresa:</strong> BIZUT - SISTEMA DE RECRUTAMENTO E SELEÇÃO<br/>
-                    Estiagiário atualmente na empresa Bizut, trabalhando diretamente com SDK da Amazon para construção de um novo produto na empresa, utilizando ReactJS + Typescript para construção da interface de usuário (UI/UX) e LaravelPHP 8 na construção de API com MySQL (Banco de dados).
+                    Trabalhando diretamente com SDK da Amazon para construção de um novo produto na empresa, utilizando ReactJS + Typescript para construção da interface de usuário (UI/UX) e LaravelPHP 8 na construção de API com MySQL (Banco de dados).
                 </p>
 
                 <h3>Informações Complementares</h3>
